@@ -12,6 +12,10 @@ This is example is to show diffenrent parts of the git repository and various co
 
 Sample website with plenty of files for demos
 
+as stated above, the maind purpose is to provide simple examples for git training demos
+
 ## Deployment
+
+this is a simple project, deployment can be on any web server or even local file system
 
 ## How To Contribute
