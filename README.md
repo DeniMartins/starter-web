@@ -20,6 +20,8 @@ this is a simple project, deployment can be on any web server or even local file
 
 ## How To Contribute
 
+please for this repository and then issue pull requests for review
+
 
 ### Copyright
 
