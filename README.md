@@ -19,3 +19,8 @@ as stated above, the maind purpose is to provide simple examples for git trainin
 this is a simple project, deployment can be on any web server or even local file system
 
 ## How To Contribute
+
+
+### Copyright
+
+2019 Git.Training
