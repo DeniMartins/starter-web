@@ -27,4 +27,4 @@ please for this repository and then issue pull requests for review
 
 ### Copyright
 
-2019 Git.Training
+2019 Git.Training all rights reserved
